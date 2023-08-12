@@ -10,7 +10,7 @@ const testimonial = [
     {
         id: "02",
         name : "Al Amin Shake",
-        img : "./1.jpg.",
+        img : "./al.png",
         job : "PHP Developer",
         info : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
@@ -18,7 +18,7 @@ const testimonial = [
     {
         id: "03",
         name : "Asraful Haq",
-        img : "./1.jpg.",
+        img : "./2.jpg",
         job : "JavaScript Developer",
         info : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     }, 
@@ -26,7 +26,7 @@ const testimonial = [
     {
         id: "04",
         name : "Aminul Islam",
-        img : "./1.jpg.",
+        img : "./3.jpg",
         job : "Apps Developer",
         info : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
@@ -34,7 +34,7 @@ const testimonial = [
     {
         id: "05",
         name : "Khalid Hassan",
-        img : "./1.jpg.",
+        img : "./1.jpg",
         job : "ISO Developer",
         info : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     }
